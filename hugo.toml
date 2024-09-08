@@ -1,4 +1,4 @@
-baseURL = "https://symmetriae.github.io/"
+# baseURL = 'https://symmetriae.github.io/'
 title = "Symmetriae"
 
 # Language settings
